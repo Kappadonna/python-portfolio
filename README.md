@@ -11,7 +11,9 @@ Raccolta di progetti Python sviluppati in autonomia, con alcune implementazioni 
 | Progetto | Descrizione | Tecnologie |
 |---|---|---|
 | [Trasporto Merci](./trasporto-merci/) | Sistema OOP di gestione flotta veicoli con dashboard interattiva | Python, Streamlit, Plotly |
-
+| [Officina Masamune](./officina-masamune/) | Sistema OOP di gestione ticket riparazione elettrodomestici | Python, Streamlit, Plotly, Pandas |
+| [Teatro](./teatro/) | Sistema OOP di prenotazione posti con mappa visiva della sala | Python, Streamlit, Pandas |
+| [Gestionale Aula](./gestionale_aula/) | Sistema OOp di gestione delle aule per i docenti | Python, Streamlit |
 ---
 
 ## 🛠️ Tecnologie utilizzate
@@ -34,4 +36,4 @@ streamlit run nome_app.py
 
 ## 📬 Contatti
 
-Se vuoi contattarmi o discutere di questi progetti, puoi trovarmi su [LinkedIn](https://www.linkedin.com/in/gianluca-cappadonna-data-scientist/) o scrivermi a [tua@email.com](mailto:cappadonnagianluca@gmail.com).
+Se vuoi contattarmi o discutere di questi progetti, puoi trovarmi su [LinkedIn](https://www.linkedin.com/in/gianluca-cappadonna-data-scientist/) o scrivermi a [cappadonnagianluca@email.com](mailto:cappadonnagianluca@gmail.com).
